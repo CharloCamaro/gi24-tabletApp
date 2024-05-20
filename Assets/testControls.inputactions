@@ -1,0 +1,144 @@
+{
+    "name": "testControls",
+    "maps": [
+        {
+            "name": "New action map",
+            "id": "b7516f89-6b6b-496a-8e4b-3bd7d2a9b2b5",
+            "actions": [
+                {
+                    "name": "Responding",
+                    "type": "Button",
+                    "id": "1414a7f6-4763-4be9-847a-63e9716e3b12",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "8588ca2f-982c-4a53-a778-4d4a299183f9",
+                    "path": "<Pen>/barrel1",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Responding",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "355d02cc-22a7-44fa-b581-a7a315bf5df6",
+                    "path": "<Pen>/barrel2",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Responding",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "62827751-ec99-42d2-b901-56a36c6a376c",
+                    "path": "<Keyboard>/space",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Responding",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "2fb25042-bbfb-4de8-b46c-9223c29d9a14",
+                    "path": "<Pen>/barrel3",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Responding",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "2e6c858b-6181-454e-98d2-42a040f9dfd5",
+                    "path": "<Pen>/barrel4",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Responding",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "0fb92c54-f908-435b-b84f-c8cd3c795db9",
+                    "path": "<Mouse>/leftButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Responding",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "6c50c7f6-c4d1-4261-aa79-0d0fa5a7ac34",
+                    "path": "<Mouse>/rightButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Responding",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "7c647c2a-3b48-4a7b-ac8b-28cf8db916f8",
+                    "path": "<Mouse>/middleButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Responding",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "c2e4b7ed-32d7-4e28-ab3d-a4c4cc4036f9",
+                    "path": "<VirtualMouse>/press",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Responding",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "594622e3-f593-4ee4-8682-25675d127cfc",
+                    "path": "<VirtualMouse>/middleButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Responding",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "6b608135-a98b-4621-874f-b1352721ec0c",
+                    "path": "<VirtualMouse>/leftButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Responding",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
